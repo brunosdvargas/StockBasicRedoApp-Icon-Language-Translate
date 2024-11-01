@@ -22,12 +22,5 @@ password: `123123`<br>
 
 ## Screenshots from The App
 
-<p float="left">
-  <img src="/https://github.com/user-attachments/assets/dab0f45f-2c09-46cd-ade1-b74ab62a6448" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
-
-
-
-![App ScreenShot](https://github.com/user-attachments/assets/dab0f45f-2c09-46cd-ade1-b74ab62a6448)
-
+![alt-text-1](![App ScreenShot](https://github.com/user-attachments/assets/d8b16a70-701c-4ac1-b0b7-e56ef86c13a9)
+"title-1") ![alt-text-2](image2.png "title-2")
