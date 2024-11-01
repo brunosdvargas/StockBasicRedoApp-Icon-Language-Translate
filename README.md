@@ -22,9 +22,12 @@ password: `123123`<br>
 
 ## Screenshots from The App
 
-<p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/58724378-c497-4c01-8e9a-50fb05a3584e
-" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./dark.png" width="45%">
-</p>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![App ScreenShot](https://github.com/user-attachments/assets/f2cc085a-4e94-453a-bb19-05c503b90d17)
+| ![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/5d54d247-7d02-4252-92ae-ecd2a4ffe5b1)
+|
+| Content Cell  | Content Cell  |
+
+
