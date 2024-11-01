@@ -24,7 +24,9 @@ password: `123123`<br>
 
 
 | First Header  | Second Header |
-| ------------- | ------------- |
+|  ![Captura_de_tela_2024-11-01_123703-removebg-preview](https://github.com/user-attachments/assets/936a78cd-5c01-4606-afae-eab652129bd4)
+| ![Captura_de_tela_2024-11-01_123227-removebg-preview](https://github.com/user-attachments/assets/752c1db2-a734-4da0-acd2-fcc0339bdac7)
+|
 | ![App ScreenShot](https://github.com/user-attachments/assets/f2cc085a-4e94-453a-bb19-05c503b90d17)
 | ![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/5d54d247-7d02-4252-92ae-ecd2a4ffe5b1)
 |
