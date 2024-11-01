@@ -27,3 +27,10 @@ password: `123123`<br>
 
 ![App ScreenShot](https://github.com/user-attachments/assets/ad1b0814-bd24-4586-8c9b-d2efbf6cca45)
 
+![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/4e7e4c73-6935-4bd9-a937-af2865db98c2)
+
+![Captura_de_tela_2024-11-01_123703-removebg-preview](https://github.com/user-attachments/assets/6f0bf163-7b67-4a9d-9138-4cb4ae2abdcf)
+![Captura_de_tela_2024-11-01_123227-removebg-preview](https://github.com/user-attachments/assets/a73c9a30-621a-41df-9b5a-37f272bf8209)
+
+
+
