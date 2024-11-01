@@ -21,40 +21,40 @@
             android:id="@+id/storeNameText"
             android:layout_width="250dp"
             android:layout_height="48dp"
+            android:layout_gravity="center"
             android:autofillHints=""
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
-            android:hint="Store Name"
+            android:hint="Nome da Loja"
             android:inputType="textPersonName"
             android:minHeight="48dp"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"/>
+            android:textColorHint="#CFCFCF" />
 
         <EditText
             android:id="@+id/storeAddressText"
             android:layout_width="250dp"
             android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
             android:gravity="start|top"
-            android:hint="Store Address"
+            android:hint="Endereço da Loja"
             android:inputType="textMultiLine"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textColorHint="#CFCFCF" />
 
         <Button
             android:id="@+id/addNewStoreButton"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:backgroundTint="@android:color/holo_orange_dark"
             android:onClick="addNewStoreClicked"
-            android:text="ADD NEW STORE"
-            android:textColor="@color/white"
-            android:textSize="16sp"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:text="Adicione nova loja"
+            android:textColor="#4E342E"
+            android:textSize="16sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

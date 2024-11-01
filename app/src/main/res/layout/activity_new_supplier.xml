@@ -21,40 +21,40 @@
             android:id="@+id/supplierNameText"
             android:layout_width="250dp"
             android:layout_height="48dp"
+            android:layout_gravity="center"
             android:autofillHints=""
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
-            android:hint="Supplier Name"
+            android:hint="Nome do Fornecedor"
             android:inputType="textPersonName"
             android:minHeight="48dp"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"/>
+            android:textColorHint="#CFCFCF" />
 
         <EditText
             android:id="@+id/supplierAddressText"
             android:layout_width="250dp"
             android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
             android:gravity="start|top"
-            android:hint="Supplier Address"
+            android:hint="Endereço do Fornecedor"
             android:inputType="textMultiLine"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textColorHint="#CFCFCF" />
 
         <Button
             android:id="@+id/addNewSupplierButton"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:backgroundTint="@android:color/holo_orange_dark"
             android:onClick="addNewSupplierClicked"
-            android:text="ADD NEW SUPPLIER"
+            android:text="Adicione novo Fornecedor"
             android:textColor="@color/white"
-            android:textSize="16sp"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textSize="16sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

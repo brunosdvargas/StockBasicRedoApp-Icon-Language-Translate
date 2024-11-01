@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">StockManagementApp</string>
+    <string name="app_name">ControleDeEstoque</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Logar</string>
+    <string name="sign_up">Cadastrar-se</string>
 </resources>

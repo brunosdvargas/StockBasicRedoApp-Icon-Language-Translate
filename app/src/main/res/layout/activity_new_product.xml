@@ -21,17 +21,17 @@
             android:id="@+id/productImage"
             android:layout_width="150dp"
             android:layout_height="200dp"
+            android:layout_gravity="center"
             android:contentDescription="Select Image"
             android:onClick="productImageClicked"
-            android:src="@drawable/selectimage"
-            android:layout_gravity="center"/>
+            android:src="@drawable/selectimage" />
 
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:layout_gravity="center"
-            android:layout_marginTop="24dp">
+            android:layout_marginTop="24dp"
+            android:orientation="horizontal">
 
             <EditText
                 android:id="@+id/barcodeText"
@@ -59,42 +59,42 @@
             android:id="@+id/productBrandText"
             android:layout_width="252dp"
             android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:autofillHints=""
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
-            android:hint="Product Brand"
+            android:hint="Marca do Produto"
             android:inputType="textPersonName"
             android:minHeight="48dp"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textColorHint="#CFCFCF" />
 
         <EditText
             android:id="@+id/productNameText"
             android:layout_width="252dp"
             android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:autofillHints=""
             android:backgroundTint="@android:color/holo_orange_light"
             android:ems="10"
-            android:hint="Product Name"
+            android:hint="Nome do Produto"
             android:inputType="textPersonName"
             android:minHeight="48dp"
             android:textColor="@color/white"
-            android:textColorHint="#CFCFCF"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textColorHint="#CFCFCF" />
 
         <Button
             android:id="@+id/addNewProductButton"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="24dp"
             android:backgroundTint="@android:color/holo_orange_dark"
             android:onClick="addNewProductClicked"
-            android:text="ADD NEW PRODUCT"
+            android:text="adicione novo produto"
             android:textColor="@color/white"
-            android:textSize="16sp"
-            android:layout_gravity="center"
-            android:layout_marginTop="24dp"/>
+            android:textSize="16sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
