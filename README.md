@@ -21,6 +21,6 @@ password: `123123`<br>
 
 
 ## Screenshots from The App
-<img src="![App ScreenShot](https://github.com/user-attachments/assets/ce40f690-0bd6-4dc7-b013-e28ad82df065.png
+<img src="https://github.com/user-attachments/assets/ce40f690-0bd6-4dc7-b013-e28ad82df065.png
 " width="30%"/>
 
