@@ -24,4 +24,6 @@ password: `123123`<br>
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![]![App ScreenShot](https://github.com/user-attachments/assets/0214d43a-dacc-47f7-95f5-6eb852957866)
+)  |  ![](![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/40d38d07-aefc-4183-9702-731d0006b0b8)
+)
