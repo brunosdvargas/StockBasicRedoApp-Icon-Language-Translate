@@ -23,5 +23,6 @@ password: `123123`<br>
 ## Screenshots from The App
 
 
-![Design_sem_nome-removebg-preview](https://github.com/user-attachments/assets/5884ce60-b0b5-4717-8e63-b6dff78ee6f0)
+![Design_sem_nome-removebg](https://github.com/user-attachments/assets/1aff799d-5575-4b23-be45-000cd3a78552)
+
 
