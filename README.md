@@ -21,7 +21,5 @@ password: `123123`<br>
 
 
 ## Screenshots from The App
-
-![alt-text-1](![App ScreenShot](https://github.com/user-attachments/assets/d8b16a70-701c-4ac1-b0b7-e56ef86c13a9)
-"title-1") ![alt-text-2](![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/4582628c-9525-47cc-b457-09fdac9a1a05)
-"title-2")
+![alt-text-1](image1.png "title-1") ![alt-text-2](![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/3a1e316d-a87b-41f1-b4d9-fc609a3a859a)
+ "title-2")
