@@ -21,5 +21,10 @@ password: `123123`<br>
 
 
 ## Screenshots from The App
-![alt-text-1](image1.png "title-1") ![alt-text-2](![Captura_de_tela_2024-11-01_123735-removebg-preview](https://github.com/user-attachments/assets/3a1e316d-a87b-41f1-b4d9-fc609a3a859a)
- "title-2")
+
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/58724378-c497-4c01-8e9a-50fb05a3584e
+" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./dark.png" width="45%">
+</p>
